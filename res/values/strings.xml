@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toastapp</string>
+    <string name="mainlbl">The Cat App</string>
+    <string name="thecatbtn">The Cat</string>
+    <string name="thn1btn">Things 1</string>
+    <string name="thn2btn">Things 2</string>
+    <string name="thinamabtn">Thingamajigger</string>
+    <string name="sallybtn">Sally</string>
+    <string name="nickbtn">Nick</string>
+    <string name="drsbtn">Dr. Suess</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
